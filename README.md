@@ -19,7 +19,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 8. Load the activity data for both training and test from ./UCI HAR Dataset/train/y_train.txt and ./UCI HAR Dataset/test/y_test.txt and combine them 
 9. Load the activity name lookup table from ./UCT HAR Dataset/activity_labels.txt
 10. Join the activity data and the lookup table to get its corresponding activity name
-11. Load the subject data for both training and test from ./UCT HAR Dataset/train/subject_train.txt and ./UCT HAR Dataset/test/subjecdt_test.txt and combine them
+11. Load the subject data for both training and test from ./UCT HAR Dataset/train/subject_train.txt and ./UCT HAR Dataset/test/subject_test.txt and combine them
 12. Adding the activity name and subject columns to the main data frame
 13. Melt the data using subject and activity as key and the 66 variables as measurement variables
 14. dcast to provide the tidy data in a form of average value for each variable grouped by activity name and subject
