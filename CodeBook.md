@@ -2,6 +2,7 @@ The data set is the result from processing the raw data containing activity reco
 Only the measurements on mean and standard deviation are selected (66 variables)
 The number for each variable is an aggregated average value of the variable grouped by subject (volunteer) and activity type
 
+For more information on the raw data, please visit http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
 No.	|	Name	|	Description	|
